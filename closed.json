@@ -1,4 +1,16 @@
 [
+{
+    "id": 16,
+	"order": "buy",
+	"currency": "GBKUSD",
+	"entry_price": "1.34900",
+    "take_profit": "1.36000",
+    "stop_loss": "1.3400",
+	"type_user": "Standard",
+	"pips": "+110",
+	"created_at": "23-12-2020 23:23",
+	"updated_at": "23-12-2020 08:52"
+  },
 	{
     "id": 15,
 	"order": "buy",
